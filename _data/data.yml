@@ -36,14 +36,14 @@ sidebar:
         - idiom: English
           level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Soccer
-          link:
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Soccer
+    #       link:
 
-        - item: Bowling
-          link:
+    #     - item: Bowling
+    #       link:
 
 career-profile:
     title: Career Profile
