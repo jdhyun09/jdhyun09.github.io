@@ -75,6 +75,13 @@ experiences:
           - Researching app-specific rollup and developing circuits for Tokamak Sybil resistance project
           - Developed circuits for Tokamak zk-EVM project
           
+      - role: ZKP Researcher
+        time: Aug 2022 - May 2023
+        company: ZK Second Brain, Seoul
+        details: |
+          - Authored educational articles on zero-knowledge proof technologies
+          - Mentored ZKP beginners at ZK-School hosted by ZK-SEL
+
       - role: Applied ZKP Developer
         time: Jul 2022 - Dec 2022
         company: Ethereum Foundation, Privacy and Scaling Exploration
@@ -87,13 +94,6 @@ experiences:
         details: |
           - Extended Interep's login methods with BrightID and clr.fund verification
           - Developed onchain NFT ownership groups using Semaphore
-
-      - role: ZKP Researcher
-        time: Aug 2022 - May 2023
-        company: ZK Second Brain, Seoul
-        details: |
-          - Authored educational articles on zero-knowledge proof technologies
-          - Mentored ZKP beginners at ZK-School hosted by ZK-SEL
 
       - role: Undergraduate Student Researcher
         time: Aug 2021 - Oct 2021
