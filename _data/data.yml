@@ -95,12 +95,6 @@ experiences:
           - Extended Interep's login methods with BrightID and clr.fund verification
           - Developed onchain NFT ownership groups using Semaphore
 
-      - role: Undergraduate Student Researcher
-        time: Aug 2021 - Oct 2021
-        company: Operating Systems & Distributed Computing LAB, Hanyang Univ.
-        details: |
-          - Authored technical report on Ethereum-based DeFi lending platforms
-
 publications:
     title: Publications
     papers:
